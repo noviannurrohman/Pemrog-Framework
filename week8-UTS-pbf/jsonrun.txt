@@ -1,0 +1,2 @@
+npx json-server --watch -p 3001 listProduk.json
+npx json-server --watch -p 3002 keranjang.json
