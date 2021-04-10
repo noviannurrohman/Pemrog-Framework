@@ -1,0 +1,40 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nim": 1841720147,
+      "nama": "Dewina",
+      "alamat": "Jl. Suhat",
+      "hp": "089757669234",
+      "angkatan": "2013",
+      "status": "cuti"
+    },
+    {
+      "id": 1614653319687,
+      "nim": "1841720085",
+      "nama": "Budiana",
+      "alamat": "Jl SIngosari",
+      "hp": "081354635432",
+      "angkatan": "2017",
+      "status": "Aktif"
+    },
+    {
+      "id": 1615165077363,
+      "nim": "18417200123",
+      "nama": "Cica",
+      "alamat": "Malang",
+      "hp": "08144556432",
+      "angkatan": "2017",
+      "status": "cuti"
+    },
+    {
+      "id": 1617803717460,
+      "nama": "Alfanita",
+      "nim": "201810160311620",
+      "alamat": "Jl. Talok Turen",
+      "hp": "0895366608766",
+      "angkatan": "2005",
+      "status": "Cuti"
+    }
+  ]
+}
