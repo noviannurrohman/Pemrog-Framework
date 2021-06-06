@@ -1,0 +1,32 @@
+{
+  "keranjang": [
+    {
+      "id": 1,
+      "nama": "SAMSUNG Mesin Cuci Top Load WA10M5120SG/SE",
+      "harga": 3744000,
+      "stok": 50,
+      "qty": 1
+    },
+    {
+      "id": 2,
+      "nama": "SHARP Mesin Cuci Top Load ES-T80MW-BK",
+      "harga": 1602000,
+      "stok": 50,
+      "qty": 1
+    },
+    {
+      "id": 3,
+      "nama": "ELECTROLUX Mesin Cuci Top Load EWT105WN",
+      "harga": 6099000,
+      "stok": 50,
+      "qty": 1
+    },
+    {
+      "id": 4,
+      "nama": "SHARP Mesin Cuci Twin Tub ES-T65NT-BL",
+      "harga": 1476000,
+      "stok": 50,
+      "qty": 1
+    }
+  ]
+}

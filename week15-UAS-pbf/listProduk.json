@@ -1,0 +1,88 @@
+{
+  "mesincuci": [
+    {
+      "id": 1,
+      "nama": "SAMSUNG Mesin Cuci Top Load WA10M5120SG/SE",
+      "harga": 3744000,
+      "gambar": "https://static.bmdstatic.com/pk/product/medium/5a0958308948f.jpg",
+      "stok": 50
+    },
+    {
+      "id": 2,
+      "nama": "SHARP Mesin Cuci Top Load ES-T80MW-BK",
+      "harga": 1602000,
+      "gambar": "https://static.bmdstatic.com/pk/product/medium/5d2d9621424a1.jpg",
+      "stok": 50
+    },
+    {
+      "id": 3,
+      "nama": "ELECTROLUX Mesin Cuci Top Load EWT105WN",
+      "harga": 6099000,
+      "gambar": "https://static.bmdstatic.com/pk/product/medium/5b9f6ec6d5f13.jpg",
+      "stok": 50
+    },
+    {
+      "id": 4,
+      "nama": "SHARP Mesin Cuci Twin Tub ES-T65NT-BL",
+      "harga": 1476000,
+      "gambar": "https://static.bmdstatic.com/pk/product/medium/5dccaab8d3215.jpg",
+      "stok": 50
+    },
+    {
+      "id": 5,
+      "nama": "SANKEN Mesin Cuci Twin Tub TW-887",
+      "harga": 1567000,
+      "gambar": "https://static.bmdstatic.com/pk/product/medium/5c5ce441449d1.jpg",
+      "stok": 50
+    },
+    {
+      "id": 6,
+      "nama": "SANKEN Mesin Cuci Twin Tub TW-8800 ETG",
+      "harga": 1510000,
+      "gambar": "https://static.bmdstatic.com/pk/product/medium/5c1a1aff18e40.jpg",
+      "stok": 50
+    },
+    {
+      "id": 7,
+      "nama": "SHARP Mesin Cuci Twin Tub ES-T75NT-BL",
+      "harga": 1498000,
+      "gambar": "https://static.bmdstatic.com/pk/product/medium/5dccc18fcba9d.jpg",
+      "stok": 50
+    },
+    {
+      "id": 8,
+      "nama": "POLYTRON Mesin Cuci Twin Tub Primadona Samba PWM 7358RS",
+      "harga": 1381000,
+      "gambar": "https://static.bmdstatic.com/pk/product/medium/5d6f7f9228f91.jpg",
+      "stok": 50
+    },
+    {
+      "id": 9,
+      "nama": "POLYTRON Mesin Cuci Twin Tub Primadona Samba PWM 8358XS",
+      "harga": 1492000,
+      "gambar": "https://static.bmdstatic.com/pk/product/medium/5d6f863861272.jpg",
+      "stok": 50
+    },
+    {
+      "id": 10,
+      "nama": "SHARP Mesin Cuci Twin Tub ES-T77DA-RK - Red",
+      "harga": 1858000,
+      "gambar": "https://static.bmdstatic.com/pk/product/medium/SHARP-Mesin-Cuci-Twin-Tub-[ES-T77DA-R]-Red-SKU00713914_0-20140328220000.jpg",
+      "stok": 50
+    },
+    {
+      "id": 11,
+      "nama": "SHARP Mesin Cuci Twin Tub ES-T65MW-BK",
+      "harga": 14120000,
+      "gambar": "https://static.bmdstatic.com/pk/product/medium/SKU03215277-2015617134244.jpg",
+      "stok": 50
+    },
+    {
+      "id": 12,
+      "nama": "POLYTRON Mesin Cuci Twin Tub Primadona Samba PWM 8358RS",
+      "harga": 1492000,
+      "gambar": "https://static.bmdstatic.com/pk/product/medium/5d706aa5481c4.jpg",
+      "stok": 50
+    }
+  ]
+}
